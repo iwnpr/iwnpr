@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+C#, OOP, LINQ, UnitTests, Design Pattern, SOLID, KISS, DRY, JSON, .NET Framework, NuGet, Git,  MS SQL, ADO.NET
+
 <!--
 **iwnpr/iwnpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
