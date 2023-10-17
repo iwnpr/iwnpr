@@ -14,7 +14,11 @@
   </a>
 </div>
 
+---
+
 ### Hi everyone, I'm Iwan!👋
+
+---
 
 ### :man_technologist: About Me :
 I'm a C# Developer from Moscow
