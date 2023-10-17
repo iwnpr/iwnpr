@@ -16,6 +16,9 @@
   <a href="hhURL">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
+    <a href="[CodeWars](https://www.codewars.com/users/swmnghpr)">
+    <img src="https://i.imgur.com/LKAcLYO.png" title="CodeWars" alt="CodeWars" width="100" height="100"/>&nbsp;
+  </a>
 </div>
 
 ---
