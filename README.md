@@ -1,3 +1,7 @@
+### Hi everyone, I'm Iwan!👋
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
 </div>
@@ -13,8 +17,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
 </div>
-
-### Hi everyone, I'm Iwan!👋
 
 ---
 
@@ -42,6 +44,7 @@ I'm a C# Developer from Moscow
 - SOLID, KISS, DRY
 - JSON
 - ADO.NET
+- Entity Framework
 - MS SQL
 - Git
 
