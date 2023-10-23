@@ -51,6 +51,9 @@ I'm a C# Developer from Moscow
 - MS SQL
 - Git
 
+№№№ In the study process
+- ASP.NET Core
+
 <!--
 **iwnpr/iwnpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
