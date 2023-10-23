@@ -51,7 +51,7 @@ I'm a C# Developer from Moscow
 - MS SQL
 - Git
 
-###In the study process
+### In the study process
 - ASP.NET Core
 
 <!--
