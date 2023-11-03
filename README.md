@@ -52,7 +52,7 @@ I'm a C# Developer from Moscow
 - Git
 
 ### ✍️In the study process
-- ASP.NET Core
+- ASP.NET Core MVC
 
 <!--
 **iwnpr/iwnpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
