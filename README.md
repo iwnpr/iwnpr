@@ -50,9 +50,10 @@ I'm a C# Developer from Moscow
 - Entity Framework
 - MS SQL
 - Git
+- ASP.NET Core MVC
 
 ### ✍️In the study process
-- ASP.NET Core MVC
+- Microservices
 
 <!--
 **iwnpr/iwnpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
