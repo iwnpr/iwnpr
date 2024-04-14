@@ -13,8 +13,8 @@
   <a href="https://t.me/iwnkrswsky">
     <img src="https://cdn1.iconfinder.com/data/icons/rounded-social-media/512/telegram-1024.png" title="Telegram" alt="Telegram" width="100" height="100"/>&nbsp;
   </a>
- <!-- <a href="https://hh.ru/resume/f055e8d6ff0c3ac1f40039ed1f6842706b4b75">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;-->
+  <a href="https://hh.ru/resume/f055e8d6ff0c3ac1f40039ed1f6842706b4b75">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
     <a href="https://www.codewars.com/users/swmnghpr">
     <img src="https://i.imgur.com/LKAcLYO.png" title="CodeWars" alt="CodeWars" width="100" height="100"/>&nbsp;
