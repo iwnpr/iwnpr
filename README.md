@@ -25,10 +25,9 @@ I'm a C# Developer from Moscow
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio"  alt="visualstudio" width="40" height="40"/>&nbsp;
-  <img src="https://peter-whyte.com/wp-content/uploads/2018/08/sql_l_w-1200x1214.png" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
 - C#
