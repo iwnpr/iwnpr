@@ -16,8 +16,8 @@
   <a href="https://hh.ru/resume/f055e8d6ff0c3ac1f40039ed1f6842706b4b75">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
-    <a href="https://www.codewars.com/users/swmnghpr">
-    <img src="https://i.imgur.com/LKAcLYO.png" title="CodeWars" alt="CodeWars" width="100" height="100"/>&nbsp;
+    <a href="https://www.linkedin.com/in/ivan-piryutko-69128a351/">
+    <img src="https://www.courts.ri.gov/SiteCollectionImages/LI.png"/>&nbsp;
   </a>
 </div>
 
@@ -38,34 +38,15 @@ I'm a C# Developer from Moscow
 </div>
 
 - C#
-- OOP
-- .NET Framework
-- LINQ
-- UnitTests
-- NuGet
-- Design Pattern
-- SOLID, KISS, DRY
-- JSON
-- ADO.NET
-- Entity Framework
-- MS SQL
+- .NET
+- EF
+- ASP.NET Core
+- SQL
 - Git
-- ASP.NET Core MVC
+- Docker
+- K8S
+- RabbitMQ/Kafka
+- CI/CD
 
 ### ✍️In the study process
-- Microservices
-
-<!--
-**iwnpr/iwnpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ML
