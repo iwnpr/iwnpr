@@ -26,7 +26,7 @@ I'm a C# Developer from Moscow
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/originals/f2/80/1a/f2801a2555451906d4e0ced138039b0f.png" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
