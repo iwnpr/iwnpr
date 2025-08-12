@@ -13,7 +13,6 @@
     <img src="https://www.courts.ri.gov/SiteCollectionImages/LI.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
 -</div>
----
 
 ### :man_technologist: About Me :
 I'm a C# Developer from Moscow
