@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/ivan-piryutko-69128a351/">
     <img src="https://www.courts.ri.gov/SiteCollectionImages/LI.png" title="Hhru" alt="Hhru" width="100" height="100"/>&nbsp;
   </a>
--</div>
+</div>
 
 ### :man_technologist: About Me :
 I'm a C# Developer from Moscow
