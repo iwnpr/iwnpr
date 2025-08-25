@@ -3,7 +3,7 @@
 ---
 <div id="badges" align="center">
   </a>
-  <a href="https://t.me/iwnkrswsky">
+  <a href="https://t.me/iwnkrswski">
     <img src="https://cdn1.iconfinder.com/data/icons/rounded-social-media/512/telegram-1024.png" title="Telegram" alt="Telegram" width="100" height="100"/>&nbsp;
   </a>
   <a href="https://hh.ru/resume/f055e8d6ff0c3ac1f40039ed1f6842706b4b75">
@@ -40,4 +40,4 @@ I'm a C# Developer from Moscow
 - CI/CD
 
 ### ✍️In the study process
-- ML
+- ...
